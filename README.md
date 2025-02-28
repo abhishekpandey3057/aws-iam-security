@@ -23,4 +23,4 @@ This repository contains Terraform/IAM policies and security configurations to:
 ## Usage  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/yourusername/aws-iam-security.git  
+   git clone https://github.com/abhishekpandey3057/aws-iam-security.git  
