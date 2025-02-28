@@ -1,5 +1,3 @@
-# aws-iam-security
-
 # AWS IAM Policy Overhaul & Security Hardening  
 🔒 **Hardened IAM policies, encrypted S3 buckets, and WAF rules to secure AWS infrastructure.**
 
